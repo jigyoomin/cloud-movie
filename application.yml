@@ -3,7 +3,7 @@ management:
     enabled: false
 
 ---
-name: default name
+name: default config server name
 
 server:
   port: 8090
@@ -26,7 +26,7 @@ logging:
     path: ../log/${spring.application.name}
     
 ---
-name: k8s name
+name: k8s config server name
 
 server:
   port: 8090
