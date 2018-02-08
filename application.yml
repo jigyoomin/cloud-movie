@@ -3,7 +3,7 @@ management:
     enabled: false
 
 ---
-name: default config server name
+name: default config server name 2
 
 server:
   port: 8090
